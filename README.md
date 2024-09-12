@@ -1,3 +1,3 @@
-Data Visualization and Manipulation Project. 
+Project: Practicing querying, joining, and visualizing databases to depict the historical effects of Global Warming.
 
-Practicing querying, joining, and visualizing databases to depict the historical effects of Global Warming.
+This notebook takes in monthly temperature data from weather stations around the world, focusing on the two time periods of 1901-1910 and 2011-2020. After cleaning and merging datasets to extract the countries of each station, I employ subplots, lineplots and barplots to visualize trends and time-series patterns in different geographic areas. These graphs overwhelmingly support the conclsion that around the world and throughout the year, temperatures are significantly higher than they were a century ago.
